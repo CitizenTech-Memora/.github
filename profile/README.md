@@ -12,17 +12,23 @@ Caixa de remédios conectada para idosos com Alzheimer e suas famílias.
 [![Painel do Cuidador](https://img.shields.io/badge/Painel-Acessar-2f5d50?style=for-the-badge&logo=vercel&logoColor=white)](https://memora-painel.vercel.app)
 [![Simulação no Wokwi](https://img.shields.io/badge/Wokwi-Ver%20a%20caixa-4a5e9a?style=for-the-badge&logo=arduino&logoColor=white)](https://wokwi.com/projects/480810351690378241)
 
-**Global Solution 2026.2 · CitizenTech · FIAP · Engenharia de Software**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+<sub>Global Solution 2026.2 · CitizenTech · FIAP · Engenharia de Software</sub>
 
 </div>
 
 ---
 
-## 📌 O problema
+## O problema
 
 Para quem tem Alzheimer, o remédio traz duas dúvidas todos os dias: *"já está na hora?"* e *"será que eu já tomei?"*. Esquecer a dose atrapalha o tratamento, e tomar duas vezes pode ser perigoso. Enquanto isso, a família, muitas vezes longe, fica sem saber o que aconteceu.
 
-## 💡 A solução
+## A solução
 
 O **Memora** troca essa dúvida por informação. Na hora de cada dose, a caixa libera **só o compartimento certo** e toca um lembrete com a voz gravada da família. Um sensor percebe quando o remédio sai da caixa. Se ninguém retira a dose, ou se alguém tenta abrir outro compartimento fora de hora, o cuidador recebe um aviso. A caixa também vigia a temperatura onde os remédios ficam guardados e funciona mesmo sem internet.
 
@@ -43,7 +49,7 @@ flowchart LR
 
 ---
 
-## 🧩 As partes do projeto
+## As partes do projeto
 
 | Repositório | O que é | Tecnologias | Disciplina |
 |---|---|---|---|
@@ -64,7 +70,7 @@ flowchart LR
 
 ---
 
-## 🌍 Objetivos de Desenvolvimento Sustentável
+## Objetivos de Desenvolvimento Sustentável
 
 - **ODS 3 · Saúde e bem-estar** (principal): apoiar a adesão ao tratamento de pessoas idosas com Alzheimer.
 - **ODS 10 · Redução das desigualdades** (secundário): mais autonomia para a pessoa idosa e menos sobrecarga para quem cuida.
@@ -73,7 +79,7 @@ flowchart LR
 
 ---
 
-## 👩‍💻 Equipe
+## Equipe
 
 | Nome | RM |
 |------|----|
