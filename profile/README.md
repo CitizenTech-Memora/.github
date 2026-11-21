@@ -46,10 +46,10 @@ flowchart LR
 
 | Repositório | O que é | Tecnologias | Disciplina |
 |---|---|---|---|
-| 📦 [**caixa**](https://github.com/CitizenTech-Memora/caixa) | A caixa de remédios inteligente, simulada no Wokwi: libera o compartimento certo, lembra, confirma a retirada e mede a temperatura | ESP32 · C++ · Wokwi | Edge Computing & Computer Systems |
-| 🐍 [**central-do-cuidador**](https://github.com/CitizenTech-Memora/central-do-cuidador) | Central em terminal para cadastrar remédios, registrar cada retirada e ver o resumo da semana | Python · JSON | Computational Thinking with Python |
-| 📊 [**modelagem-matematica**](https://github.com/CitizenTech-Memora/modelagem-matematica) | Modelo que mostra como atrasar, esquecer ou dobrar uma dose muda a concentração do remédio no corpo | Python · NumPy · Matplotlib | Differentiated Problem Solving |
-| 🖥️ [**painel-web**](https://github.com/CitizenTech-Memora/painel-web) | Painel do Cuidador: status das doses do dia, alertas, rede de cuidado, lembrete de voz e adesão semanal | React · Tailwind CSS · MockAPI | Web Development e Front-end Design |
+| [**caixa**](https://github.com/CitizenTech-Memora/caixa) | A caixa de remédios inteligente, simulada no Wokwi: libera o compartimento certo, lembra, confirma a retirada e mede a temperatura | ESP32 · C++ · Wokwi | Edge Computing & Computer Systems |
+| [**central-do-cuidador**](https://github.com/CitizenTech-Memora/central-do-cuidador) | Central em terminal para cadastrar remédios, registrar cada retirada e ver o resumo da semana | Python · JSON | Computational Thinking with Python |
+| [**modelagem-matematica**](https://github.com/CitizenTech-Memora/modelagem-matematica) | Modelo que mostra como atrasar, esquecer ou dobrar uma dose muda a concentração do remédio no corpo | Python · NumPy · Matplotlib | Differentiated Problem Solving |
+| [**painel-web**](https://github.com/CitizenTech-Memora/painel-web) | Painel do Cuidador: status das doses do dia, alertas, rede de cuidado, lembrete de voz e adesão semanal | React · Tailwind CSS · MockAPI | Web Development e Front-end Design |
 
 ### As regras que todas as partes seguem
 
