@@ -8,6 +8,7 @@
 
 Caixa de remédios conectada para idosos com Alzheimer e suas famílias.
 
+[![Pitch no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Pitch-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/DyYcnP_5acY)
 [![Painel do Cuidador](https://img.shields.io/badge/Painel-Acessar-2f5d50?style=for-the-badge&logo=vercel&logoColor=white)](https://memora-painel.vercel.app)
 [![Simulação no Wokwi](https://img.shields.io/badge/Wokwi-Ver%20a%20caixa-4a5e9a?style=for-the-badge&logo=arduino&logoColor=white)](https://wokwi.com/projects/480810351690378241)
 
